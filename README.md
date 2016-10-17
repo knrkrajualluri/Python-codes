@@ -1,5 +1,5 @@
 # Python-codes
-simple python codes
+simple python codes for data seperation of ASV- Spoof 2015 Database
 
 python seperation.py filename
 
